@@ -54,21 +54,7 @@ Start with **Option A** (fitted cover) — it's the cleanest, cheapest, purpose-
 
 ---
 
-## Future: Actual Sump Pump
-
-Even without current water issues, a pump is worth considering if:
-- Heavy rain events cause any seepage
-- A finished basement is planned
-- Home inspection flagged water risk
-
-| Detail | Info |
-|--------|------|
-| Pit diameter | TBD |
-| Pit depth | TBD |
-| Crock liner present | TBD |
-| Discharge pipe rough-in | TBD |
-
 ## Notes
 
-- Do not fill pit with concrete or permanent material — keeping it reversible preserves the option to install a pump later
-- If a pump is ever installed, a battery backup unit is strongly recommended (pumps are most needed during storms that also knock out power)
+- Do not fill pit with concrete or permanent material — keep reversible
+- Measure pit diameter before purchasing cover (standard sizes: 15", 18", 24")

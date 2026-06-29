@@ -35,8 +35,6 @@ Aggregated across all projects. Updated whenever a project file changes.
 | Ethernet cable + hardware (Cat6, keystones, wall plates, patch panel) | [Internet & Network](02-internet-network.md) | Phase 3 — plan runs before purchasing |
 | Streaming device for sun room TV | [Sun Room AV](07-sunroom-av.md) | Depends on TV selection; may be built in |
 | Hot tub filter replacement | [Hot Tub](09-hot-tub.md) | Inspect current filter first; note size/model before ordering |
-| Hot tub cover (if waterlogged) | [Hot Tub](09-hot-tub.md) | Lift and check — a heavy cover has lost its insulation and should be replaced |
-| Sump pump + battery backup | [Sump Pump](08-sump-pump.md) | No water issues currently; revisit if seepage occurs or basement is finished |
 
 ---
 

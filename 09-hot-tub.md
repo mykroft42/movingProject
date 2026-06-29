@@ -83,7 +83,7 @@ Hot tub water requires more frequent attention than a pool due to smaller volume
 | Pump | Functional | — |
 | Heater | Functional | — |
 | Filter | TBD | Check condition; note size/model for replacements |
-| Cover | TBD | Inspect for waterlogging (heavy cover = replace) |
+| Cover | Good condition | No replacement needed |
 | Cover lifter | TBD | — |
 | Jets | Functional | — |
 
