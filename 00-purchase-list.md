@@ -9,8 +9,7 @@ Aggregated across all projects. Updated whenever a project file changes.
 
 | Item | Project | Notes |
 |------|---------|-------|
-| Window AC units (multiple) | [Air Conditioning](06-air-conditioning.md) | Arriving Tuesday 2026-07-01 — already ordered |
-| New AC unit (heat wave) | [Air Conditioning](06-air-conditioning.md) | Purchasing ~2026-06-28; record model when bought |
+| Hisense slim window units x3 | [Air Conditioning](06-air-conditioning.md) | Arriving Tuesday 2026-07-01 — for bedrooms |
 | Sump pit cover (fitted plastic lid) | [Sump Pump](08-sump-pump.md) | Needed before move (7/10); measure pit diameter first (standard: 15", 18", 24"); $15–40 at Home Depot/Lowes |
 | Hot tub test strips (full kit) | [Hot Tub](09-hot-tub.md) | Test pH, alkalinity, sanitizer, and calcium before touching any chemistry |
 | Floating thermometer | [Hot Tub](09-hot-tub.md) | Baseline water temp check; cheap, do this before anything else |
@@ -46,6 +45,8 @@ Aggregated across all projects. Updated whenever a project file changes.
 | Item | Project | Date | Details |
 |------|---------|------|---------|
 | Portable AC (from rental office) | [Air Conditioning](06-air-conditioning.md) | — | Moving existing unit — no purchase needed |
+| Hisense slim window unit (office) | [Air Conditioning](06-air-conditioning.md) | 2026-06-28 | 8,000 BTU — installed |
+| Midea portable AC (living room) | [Air Conditioning](06-air-conditioning.md) | 2026-06-28 | 12,000 BTU — installed |
 
 ---
 

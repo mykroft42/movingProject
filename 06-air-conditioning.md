@@ -10,15 +10,17 @@ House is well-shaded and stays relatively cool, but window units and portables a
 
 ## Immediate / Short-Term Coverage
 
-| Unit | Type | Location | Status |
-|------|------|----------|--------|
-| Window units (multiple) | Window AC | All bedrooms | Arriving Tuesday 2026-07-01 |
-| Portable unit (from rental) | Portable AC | New office | To be moved from rental house |
-| New unit (TBD) | TBD | TBD (heat wave coverage) | Purchasing ~2026-06-28 |
+| Unit | Brand | Model | BTU | Type | Location | Status |
+|------|-------|-------|-----|------|----------|--------|
+| Hisense slim window unit | Hisense | Slim Window Unit | 8,000 | Window AC | Office | Installed |
+| Hisense slim window units (x3) | Hisense | Slim Window Unit | 8,000 | Window AC | Bedrooms (TBD) | Arriving Tuesday 2026-07-01 |
+| Midea portable AC | Midea | Portable AC | 12,000 | Portable | Living room | Installed |
+| Midea portable AC (from rental) | Midea | Portable AC | 12,000 | Portable | New office (eventually) | To be moved from rental office — identical unit |
 
 ### Notes
-- Heat wave incoming — new unit purchase is urgent
-- Portable from rental office can serve new office once moved in
+- Office and living room covered as of 2026-06-28
+- 3 more Hisense window units arriving Tuesday for bedrooms
+- Rental office portable will move to new office after move-in
 
 ---
 

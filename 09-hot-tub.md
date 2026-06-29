@@ -11,7 +11,7 @@ House came with a hot tub in working condition. Need to understand the control p
 | Detail | Info |
 |--------|------|
 | Brand | Destiny Spa |
-| Model | TBD — pull from documentation/cabinet label |
+| Model | Optix XL |
 | Serial number | TBD |
 | Condition | Good — functional |
 | Control panel type | Touch panel |
