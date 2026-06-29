@@ -25,7 +25,7 @@ Game Room, Foyer, Powder Room, Kitchen, Basement, Kid's Bathroom, Master Bathroo
 - Color: Perennial Blue (presumptive)
 - Brand: Behr
 - Code: M530-3
-- Finish: —
+- Finish: Eggshell
 
 ---
 
@@ -41,13 +41,13 @@ Game Room, Foyer, Powder Room, Kitchen, Basement, Kid's Bathroom, Master Bathroo
 - Color: Cider Spice (presumptive)
 - Brand: Behr
 - Code: S210-5
-- Finish: —
+- Finish: Eggshell
 
 ---
 
 ### Living Room
 **Painter:** DIY  
-**Status:** Two coats applied (2026-06-28) — drying, awaiting final decision  
+**Status:** Complete — Hidive selected (2026-06-28)  
 **Plan:** Accent wall only; remaining walls stay existing gray
 
 | Sample Name | Brand | Code | Tried On Wall | Feelings |
@@ -58,10 +58,10 @@ Game Room, Foyer, Powder Room, Kitchen, Basement, Kid's Bathroom, Master Bathroo
 | Foxglove | Behr | M550-3 | Yes (1 coat) | Light purple — lower contrast against gray but provides a nice brightness; Molly wants to see 2nd coat especially to assess against the gray |
 
 **Final Selection**
-- Color: TBD — awaiting second coat
-- Brand: —
-- Code: —
-- Finish: —
+- Color: Hidive
+- Brand: Behr
+- Code: P480-5
+- Finish: Eggshell
 
 ---
 
@@ -78,7 +78,7 @@ Game Room, Foyer, Powder Room, Kitchen, Basement, Kid's Bathroom, Master Bathroo
 - Color: Green Agate (presumptive)
 - Brand: Behr
 - Code: M430-71
-- Finish: —
+- Finish: Eggshell
 
 ---
 
@@ -95,7 +95,7 @@ Game Room, Foyer, Powder Room, Kitchen, Basement, Kid's Bathroom, Master Bathroo
 - Color: Leatherwork
 - Brand: Behr
 - Code: S240-7
-- Finish: —
+- Finish: Eggshell
 
 ---
 
@@ -111,7 +111,7 @@ Game Room, Foyer, Powder Room, Kitchen, Basement, Kid's Bathroom, Master Bathroo
 - Color: Lavender Cloud
 - Brand: Behr
 - Code: P550-3
-- Finish: —
+- Finish: Eggshell
 
 ---
 
@@ -127,7 +127,7 @@ Game Room, Foyer, Powder Room, Kitchen, Basement, Kid's Bathroom, Master Bathroo
 - Color: Peaceful River (presumptive)
 - Brand: Behr
 - Code: P500-5
-- Finish: —
+- Finish: Eggshell
 
 ---
 
